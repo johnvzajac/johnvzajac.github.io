@@ -1,0 +1,28 @@
+.main, .sub-main {
+  background-image: url('John.Zajac_Image.2 copy.JPG');
+  background-size: cover;
+  color; white-space: text-align: center
+}
+body {
+  background-color: black;
+}
+
+.bio {
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.links img{
+  width: 100px;
+  height: auto;
+  margin: 0 10px;
+}
