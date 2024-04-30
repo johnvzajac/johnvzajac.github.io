@@ -1,7 +1,27 @@
+@font-face {
+  font-family: 'Alpha Death';
+  src: url('johnvzajac.github.io/AlphaDeathPersonalUseGrunge-LzAE.ttf') format('truetype');
+}
+
 body {
   background-color: gray;
 }
 
-.bio {
+main {
   color: white;
+  font-family: 'Alpha Death', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+sub-main{
+  color: white;
+  font-family: 'Alpha Death', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+bio {
+  color: white;
+  text-align: center;
 }
