@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: black;
 }
 
 main {
@@ -17,4 +17,10 @@ sub-main{
 bio {
   color: white;
   text-align: center;
+}
+
+links{
+  filter: invert(100%);
+  width: 100px;
+  height: 100px;
 }
