@@ -2,24 +2,24 @@ body {
   background-color: black;
 }
 
-main {
+.main {
   color: white;
   text-align: center;
   font-weight: bold;
 }
 
-sub-main{
+.sub-main{
   color: white;
   text-align: center;
   font-weight: bold;
 }
 
-bio {
+.bio {
   color: white;
   text-align: center;
 }
 
-links{
+.links{
   filter: invert(100%);
   width: 100px;
   height: 100px;
