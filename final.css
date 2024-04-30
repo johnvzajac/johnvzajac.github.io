@@ -6,21 +6,30 @@ body {
   color: white;
   text-align: center;
   font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .sub-main{
   color: white;
   text-align: center;
   font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .bio {
   color: white;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .links img {
   filter: invert(100%);
   width: 100px;
   height: 100px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
