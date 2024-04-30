@@ -19,7 +19,7 @@ body {
   text-align: center;
 }
 
-.links{
+.links img {
   filter: invert(100%);
   width: 100px;
   height: 100px;
