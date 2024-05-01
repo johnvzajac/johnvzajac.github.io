@@ -18,6 +18,11 @@ body {
   margin-right: auto;
 }
 
+.headshot{
+  display: block;
+  margin: 0 auto;
+}
+
 .bio {
   color: white;
   text-align: center;
@@ -29,7 +34,6 @@ body {
   filter: invert(100%);
   width: 100px;
   height: 100px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  display: block;
+  margin: 0 auto;
 }
