@@ -2,20 +2,11 @@ body {
   background-color: black;
 }
 
-.main {
-  color: white;
-  text-align: center;
-  font-weight: bold;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.sub-main{
-  color: white;
-  text-align: center;
-  font-weight: bold;
-  margin-left: auto;
-  margin-right: auto;
+.logo{
+  display: block;
+  margin: 0 auto;
+  height: 100px;
+  width: auto;
 }
 
 .headshot{
