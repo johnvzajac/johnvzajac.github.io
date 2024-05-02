@@ -31,7 +31,8 @@ body {
 
 .links img {
   filter: invert(100%);
-  width: 100vw;
-  height: 100vw;
-  margin: 0 10px;
+  width: 10%;
+  max-width: 100px;
+  height: auto;
+  margin: 0 auto;
 }
