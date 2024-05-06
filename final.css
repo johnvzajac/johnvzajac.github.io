@@ -5,13 +5,15 @@ body {
 .logo img {
   width: 100%;
   height: auto;
-  margin-left: 0 auto;
+  align-content: center;
+  justify-content: center;
 }
 
 .headshot img {
   width: 75%;
   height: auto;
-  margin-left: 0 auto;
+  align-content: center;
+  justify-content: center;
 }
 
 .bio {
