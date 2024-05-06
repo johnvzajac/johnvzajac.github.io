@@ -5,7 +5,7 @@ body {
 .logo {
   width: 100%;
   height: auto;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
 }
@@ -13,7 +13,7 @@ body {
 .headshot {
   width: 75%;
   height: auto;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
 }
@@ -28,7 +28,7 @@ body {
   filter: invert(100%);
   width: 100px;
   height: auto;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
 }
