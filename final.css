@@ -3,13 +3,13 @@ body {
 }
 
 .logo img {
-  width: 100px;
+  max-width: 100px;
   height: auto;
   margin: 0 auto;
 }
 
 .headshot img {
-  width: 100px;
+  max-width: 100px;
   height: auto;
   margin: 0 auto;
 }
@@ -24,5 +24,6 @@ body {
   filter: invert(100%);
   width: 100px;
   height: auto;
-  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
 }
