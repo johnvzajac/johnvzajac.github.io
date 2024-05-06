@@ -3,13 +3,13 @@ body {
 }
 
 .logo img {
-  max-width: 100%;
+  max-width: 1000px;
   height: auto;
   margin: 0 auto;
 }
 
 .headshot img {
-  max-width: 100%;
+  max-width: 1000px;
   height: auto;
   margin: 0 auto;
 }
