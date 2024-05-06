@@ -3,14 +3,14 @@ body {
 }
 
 .logo {
-  width: 100%;
+  width: 75%;
   height: auto;
   display: block;
   margin: auto;
 }
 
 .headshot {
-  width: 75%;
+  width: 50%;
   height: auto;
   display: block;
   margin: auto;
