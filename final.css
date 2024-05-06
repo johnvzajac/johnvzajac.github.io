@@ -6,16 +6,14 @@ body {
   width: 100%;
   height: auto;
   display: block;
-  align-items: center;
-  justify-content: center;
+  margin: auto;
 }
 
 .headshot {
   width: 75%;
   height: auto;
   display: block;
-  align-items: center;
-  justify-content: center;
+  margin: auto;
 }
 
 .bio {
@@ -29,6 +27,5 @@ body {
   width: 100px;
   height: auto;
   display: block;
-  align-items: center;
-  justify-content: center;
+  margin: auto;
 }
