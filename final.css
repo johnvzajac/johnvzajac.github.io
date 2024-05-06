@@ -2,15 +2,10 @@ body {
   background-color: black;
 }
 
-.logo img {
-  max-width: 1000px;
+.logo img, .headshot img {
+  width: 100%;
   height: auto;
-  margin: 0 auto;
-}
-
-.headshot img {
-  max-width: 1000px;
-  height: auto;
+  display: block;
   margin: 0 auto;
 }
 
