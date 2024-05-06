@@ -3,19 +3,17 @@ body {
 }
 
 .logo img {
-  display: flex;
-  justify-content: center;
-  width: 50%;
-  max-width: 300px;
-  object-fit: contain;
+  width: 100px;
+  max-width: 100px;
+  height: auto;
+  margin-right: 0 auto;
 }
 
 .headshot img {
-  display: flex;
-  justify-content: center;
-  width: 50%;
-  max-width: 250px;
-  object-fit: contain;
+  width: 100px;
+  max-width: 100px;
+  height: auto;
+  margin-right: 0 auto;
 }
 
 .bio {
@@ -23,13 +21,6 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-
-.reviews img {
-  width: 150px;
-  max-width: 150px;
-  height: auto;
-  margin-right: 0 auto;
 }
 
 .links img {
