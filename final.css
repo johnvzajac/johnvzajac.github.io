@@ -4,29 +4,25 @@ body {
 
 .logo img {
   width: 100px;
-  max-width: 100px;
   height: auto;
-  margin-right: 0 auto;
+  margin: 0 auto;
 }
 
 .headshot img {
   width: 100px;
-  max-width: 100px;
   height: auto;
-  margin-right: 0 auto;
+  margin: 0 auto;
 }
 
 .bio {
   color: white;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 .links img {
   filter: invert(100%);
   width: 100px;
-  max-width: 100px;
   height: auto;
-  margin-right: 0 auto;
+  margin: 0 auto;
 }
