@@ -23,10 +23,12 @@ body {
 
 .links {
   display: flex;
-  flex-wrap: no wrap;
   justify-content: space-between;
   width: 100%;
-  overflow-x: auto;
+}
+
+.links a {
+  flex: 1;
 }
 
 .links img {
