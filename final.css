@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-.logo img {
+.logo {
   width: 100%;
   height: auto;
   display: flex;
@@ -10,7 +10,7 @@ body {
   justify-content: center;
 }
 
-.headshot img {
+.headshot {
   width: 75%;
   height: auto;
   display: flex;
@@ -24,7 +24,7 @@ body {
   margin: 0 auto;
 }
 
-.links img {
+.links {
   filter: invert(100%);
   width: 100px;
   height: auto;
