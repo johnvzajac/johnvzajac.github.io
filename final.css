@@ -2,11 +2,20 @@ body {
   background-color: black;
 }
 
-.logo img, .headshot img {
+.logo img {
   width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.headshot img {
+  width: 75%;
+  height: auto;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .bio {
@@ -19,5 +28,6 @@ body {
   filter: invert(100%);
   width: 100px;
   height: auto;
-  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
 }
