@@ -5,17 +5,15 @@ body {
 .logo img {
   width: 100%;
   height: auto;
-  display: block;
-  align-content: center;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .headshot img {
   width: 75%;
   height: auto;
-  display: block;
-  align-content: center;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .bio {
@@ -28,6 +26,6 @@ body {
   filter: invert(100%);
   width: 100px;
   height: auto;
-  align-content: center;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
