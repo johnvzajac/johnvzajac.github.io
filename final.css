@@ -24,6 +24,4 @@ body {
   filter: invert(100%);
   width: 100px;
   height: auto;
-  justify-content: center;
-  align-items: center;
 }
