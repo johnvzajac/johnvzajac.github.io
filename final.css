@@ -3,6 +3,7 @@ body {
 }
 
 .logo img {
+  display: block;
   width: 85%;
   height: auto;
   margin: auto;
