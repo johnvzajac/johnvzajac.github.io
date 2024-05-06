@@ -21,14 +21,25 @@ body {
   margin: 0 auto;
 }
 
-.links {
+.reviews {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.links{
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
 
-.links a{
+.links a, .reviews a {
   flex: 1;
+}
+
+.reviews img{
+  width: 100px;
+  height: auto;
 }
 
 .links img{
