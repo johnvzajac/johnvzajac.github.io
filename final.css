@@ -21,17 +21,17 @@ body {
   margin: 0 auto;
 }
 
-.links, .reviews {
+.links {
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
 
-.links a, .reviews a {
+.links a{
   flex: 1;
 }
 
-.links img, .reviews img {
+.links img{
   filter: invert(100%);
   width: 100px;
   height: auto;
