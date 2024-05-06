@@ -22,7 +22,7 @@ body {
 
 .links img {
   filter: invert(100%);
-  width: 100%;
+  width: 100px;
   height: auto;
   margin: auto;
 }
